@@ -7,5 +7,9 @@ public class Dog {
         System.out.println("this is dog5");
         System.out.println("this is dog6");
         System.out.println("this is dog7");
+        System.out.println("this is dog8");
+        System.out.println("this is dog9");
+        System.out.println("this is dog10");
+        System.out.println("this is dog11");
     }
 }
